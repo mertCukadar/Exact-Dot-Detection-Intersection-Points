@@ -1,0 +1,25 @@
+holder = 0
+index = 0
+new_storage = []
+
+
+for i in storage:
+    if holder == i[0]:
+        index += 1
+    else: 
+        new_storage.append(i)
+        
+    holder = i[0]
+---------------------------------------------------
+    holder = 0
+index = 0
+new_storage2 = []
+    
+for i in new_storage:
+    if holder == i[1]:
+        index += 1
+    else: 
+        new_storage2.append(i)
+        
+    holder = i[1]
+    
