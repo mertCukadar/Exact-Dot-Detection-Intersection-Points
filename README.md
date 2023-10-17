@@ -1,7 +1,7 @@
 ---
 Title: Exact dot detection
 Author: Mert Kaan Çukadar
-date : 29.12.2022
+date : 28.12.2022
 ---
 
 
